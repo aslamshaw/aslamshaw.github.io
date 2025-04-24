@@ -1,11 +1,11 @@
 # Site settings
-title: Freelancer
+title: Anvar Mohamed Aslam Sha – Data & Business Analyst
 email: akcentrox@gmail.com
-url: https://github.com/jeromelachaud/freelancer-theme
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
-keywords: "your keywords, separated by commas"
-skills: "Web Developer - Graphic Artist - User Experience Designer"
-meta_author: LastName FirstName
+url: https://github.com/aslamshaw
+description: "Anvar Mohamed Aslam Sha is a Data & Business Analyst specializing in predictive modeling, dashboard development, and data-driven decision-making. Passionate about transforming complex data into strategic insights."
+keywords: "Data Analyst, Business Analyst, Predictive Modeling, Power BI, Python, Machine Learning, Freelance Analyst, Dashboard Developer, Aslam Sha"
+skills: "Data Analyst - Business Intelligence - Predictive Modeling - Machine Learning"
+meta_author: Anvar Mohamed Aslam Sha
 
 # Google webmaster tools
 google_verify:
@@ -32,7 +32,7 @@ color:
 
 # Footer settings
 footer:
-  copyright: Dr. Henry Jekyll
+  copyright: Anvar Mohamed Aslam Sha
   location: Location
   social: Around the Web
   credits: Credits
@@ -48,11 +48,11 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: No.3/61, Peria Pallivasal St, Pakkiripalayam, Panruti
+  - line: 607112 Tamil Nadu, India
 
 # Credits content
-credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
+credits: 'Designed and customized by Anvar Mohamed Aslam Sha using the Freelancer Jekyll Theme from <a href="https://startbootstrap.com">Start Bootstrap</a>.'
 
 # Build settings
 markdown: kramdown

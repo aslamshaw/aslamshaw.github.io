@@ -6,7 +6,7 @@ img: safe.png
 alt: image-alt
 project-date: March 2025
 category: SQL & Database Optimization
-title: Leetcode-Database-Hard
+title: Leetcode Database Hard
 description: 
   This project consists of solutions to LeetCode’s Hard-level SQL and Database problems. Each solution includes optimized SQL queries, step-by-step explanations of the approach, performance analysis, and alternative strategies where applicable. The problems tackled range from complex joins to advanced database design and optimization techniques. 
 

@@ -2,8 +2,8 @@
 layout: default
 modal-id: 6
 date: 2025-03-01
-img: leetcode-database-hard.png
-alt: LeetCode Database Hard Problems
+img: safe.png
+alt: image-alt
 project-date: March 2025
 category: SQL & Database Optimization
 title: Leetcode Database Hard

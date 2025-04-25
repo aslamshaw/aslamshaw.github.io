@@ -4,8 +4,15 @@ modal-id: 4
 date: 2014-07-15
 img: game.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+project-date: May 2022
+client: TU Dresden
+category: Machine Learning & Inverse Modeling
+title: Convolution 1D autoencoder
+description: 
+  This is one of the project work during my Master's studies at TU Dresden in collaboration with Helmut-Schmidt-Universität der Bundeswehr Hamburg. It focuses on developing a machine learning-based inverse modeling framework for inferring the internal microstructure of composite materials using ultrasonic amplitude response data. The project solves the inverse problem of estimating internal configuration parameters (e.g., fiber radii, material densities, stiffness) of fiber-reinforced composites from ultrasonic scattering data through a convolutional autoencoder-based neural network.
+
+  The main goal is to improve the accuracy and reliability of internal configuration prediction by applying deep learning to analyze wave scattering data, offering an alternative to traditional analytical models for complex composite materials.
+
+  <br>
+  <a href="https://github.com/aslamshaw/Convolution_1D_autoencoder" target="_blank">👉 View on GitHub</a>
 ---

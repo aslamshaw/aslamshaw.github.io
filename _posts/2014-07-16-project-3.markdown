@@ -8,15 +8,10 @@ project-date: April 2024
 client: CARBOCON GmbH
 category: Data Science & Machine Learning
 title: Mechanical Property Inference Pipeline
-description: |
-  This project is the result of my Master’s Thesis at **TU Dresden**, completed in collaboration with **CARBOCON GmbH**. It focuses on applying **machine learning** to predict characteristic material values (e.g., the 5th percentile of tensile strength) from material-specific experimental tests. The project emphasizes **robust outlier detection** and **data augmentation** using **synthetic data** generated via **CTGANs** (Conditional Generative Adversarial Networks).
+description: 
+  This project is the result of my Master’s Thesis at TU Dresden, completed in collaboration with CARBOCON GmbH. It focuses on applying machine learning to predict characteristic material values (e.g., the 5th percentile of tensile strength) from material-specific experimental tests. The project emphasizes robust outlier detection and data augmentation using synthetic data generated via CTGANs (Conditional Generative Adversarial Networks).
 
-  The main goal is to improve the accuracy and reliability of material evaluation by addressing challenges like **small sample sizes** and **outliers**. By augmenting datasets with synthetic samples, we can build more generalized regression models for better prediction of material properties.
-
-  ### Key Highlights:
-  - Machine learning techniques applied to **predict characteristic material values**
-  - Use of **CTGANs** for generating realistic synthetic material data
-  - Focus on **outlier detection** and data augmentation for improved prediction accuracy
+  The main goal is to improve the accuracy and reliability of material evaluation by addressing challenges like small sample sizes and outliers. By augmenting datasets with synthetic samples, we can build more generalized regression models for better prediction of material properties.
 
   <br>
   <a href="https://github.com/aslamshaw/Mechanical-Property-Inference-Pipeline" target="_blank">👉 View on GitHub</a>

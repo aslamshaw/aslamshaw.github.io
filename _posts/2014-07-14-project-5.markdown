@@ -4,8 +4,14 @@ modal-id: 5
 date: 2014-07-14
 img: safe.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+project-date: March 2025
+category: SQL & Database Optimization
+title: Leetcode-Database-Hard
+description: 
+  This project consists of solutions to LeetCode’s Hard-level SQL and Database problems. Each solution includes optimized SQL queries, step-by-step explanations of the approach, performance analysis, and alternative strategies where applicable. The problems tackled range from complex joins to advanced database design and optimization techniques. 
+
+  The project aims to demonstrate expertise in handling complex data queries, optimizing performance for large datasets, and building high-quality SQL solutions for real-world database challenges. It is an invaluable resource for anyone looking to enhance their SQL skills, particularly in the context of database management and optimization.
+
+  <br>
+  <a href="https://github.com/aslamshaw/Leetcode-Database-Hard" target="_blank">👉 View on GitHub</a>
 ---

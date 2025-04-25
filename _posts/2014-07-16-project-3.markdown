@@ -5,10 +5,18 @@ date: 2014-07-16
 img: circus.png
 alt: image-alt
 project-date: April 2014
-client: Start Bootstrap
-category: Web Development
+client: CARBOCON GmbH
+category: Data Science & Machine Learning
 title: Mechanical Property Inference Pipeline
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+description: |
+  This project is the result of my Master’s Thesis at **TU Dresden**, completed in collaboration with **CARBOCON GmbH**. It focuses on applying **machine learning** to predict characteristic material values (e.g., the 5th percentile of tensile strength) from material-specific experimental tests. The project emphasizes **robust outlier detection** and **data augmentation** using **synthetic data** generated via **CTGANs** (Conditional Generative Adversarial Networks).
+
+  The main goal is to improve the accuracy and reliability of material evaluation by addressing challenges like **small sample sizes** and **outliers**. By augmenting datasets with synthetic samples, we can build more generalized regression models for better prediction of material properties.
+
+  ### Key Highlights:
+  - Machine learning techniques applied to **predict characteristic material values**
+  - Use of **CTGANs** for generating realistic synthetic material data
+  - Focus on **outlier detection** and data augmentation for improved prediction accuracy
   <br>
   <a href="https://github.com/aslamshaw/Mechanical-Property-Inference-Pipeline" target="_blank">👉 View on GitHub</a>
 ---

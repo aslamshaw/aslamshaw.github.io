@@ -9,11 +9,9 @@ client: Personal Project
 category: MLOps model deployment & API
 title: Modular Personality Prediction API
 description: 
-Trait-Smith is a personality prediction API built with FastAPI and a custom-built ML pipeline. It predicts personality types from behavioral inputs using a stacked ensemble of Random Forest, XGBoost, SVM, and Gradient Boosting, with Logistic Regression as a meta-learner.
+  Trait-Smith is a personality prediction web service built using FastAPI and a custom ML pipeline. It uses behavioral inputs to predict personality types via a stacked ensemble model combining Random Forest, XGBoost, SVM, and Gradient Boosting, with Logistic Regression as the meta-learner. Feature engineering, encoding, selection, and pipeline automation were implemented from scratch.
 
-The system includes handcrafted modules for feature engineering, leave-one-out encoding, mutual information selection, and auto-scaling/encoding. All components are implemented from scratch.
-
-The model is deployed as a real-time web service. Hyperparameter tuning is performed via randomized search, and model stacking is handled by StackingClassifier.
+  The pipeline includes dynamic imputation, leave-one-out encoding, mutual information-based feature selection, and a custom auto-scaler/encoder transformer. The deployment is served via FastAPI with real-time predictions. Hyperparameter tuning is performed with RandomizedSearchCV, and models are stacked using StackingClassifier.
 
   <br>
   <a href="https://github.com/aslamshaw/Trait-Smith" target="_blank">👉 View on GitHub</a>

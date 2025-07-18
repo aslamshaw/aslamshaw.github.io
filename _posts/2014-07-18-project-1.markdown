@@ -1,11 +1,11 @@
 ---
 layout: default
 modal-id: 1
-date: 2014-07-18
+date: 2025-07-08
 img: cabin.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+project-date: July 2025
+client: Personal Project
+category: Machine Learning, API
+description: Trait-Smith is a personality prediction web service built using FastAPI and a custom ML pipeline. It uses behavioral inputs to predict personality types via a stacked ensemble model combining Random Forest, XGBoost, SVM, and Gradient Boosting, with Logistic Regression as the meta-learner. Feature engineering, encoding, selection, and pipeline automation were implemented from scratch.
 ---

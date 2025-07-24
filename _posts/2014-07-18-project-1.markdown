@@ -7,12 +7,11 @@ alt: image-alt
 project-date: July 2025
 client: Personal Project
 category: MLOps model deployment & API
-title: Modular Personality Prediction API
+title: Predictive ML Pipeline for Banking Campaigns
 description: 
-  Trait-Smith is a personality prediction web service built using FastAPI and a custom ML pipeline. It uses behavioral inputs to predict personality types via a stacked ensemble model combining Random Forest, XGBoost, SVM, and Gradient Boosting, with Logistic Regression as the meta-learner. Feature engineering, encoding, selection, and pipeline automation were implemented from scratch.
-
-  The pipeline includes dynamic imputation, leave-one-out encoding, mutual information-based feature selection, and a custom auto-scaler/encoder transformer. The deployment is served via FastAPI with real-time predictions. Hyperparameter tuning is performed with RandomizedSearchCV, and models are stacked using StackingClassifier.
+  Bank-Cast is a customer behavior prediction service built using FastAPI and a fully custom machine learning pipeline. It forecasts term deposit subscriptions based on marketing campaign data using a stacked ensemble of Random Forest, XGBoost, SVM, and Gradient Boosting, with Logistic Regression as the meta-learner. 
+  The pipeline features dynamic imputation, leave-one-out and one-hot encoding, mutual information-based feature selection, and a custom transformer for automated scaling and encoding. SHAP is used for local/global explainability. Hyperparameter tuning is done via RandomizedSearchCV, and real-time predictions are served through FastAPI endpoints.
 
   <br>
-  <a href="https://github.com/aslamshaw/Trait-Smith" target="_blank">👉 View on GitHub</a>
+  <a href="https://github.com/aslamshaw/Bank-Cast" target="_blank">👉 View on GitHub</a>
 ---
